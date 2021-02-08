@@ -1,2 +1,3 @@
 # git-example
-this is an example file
+this is sum new text 
+good times 
